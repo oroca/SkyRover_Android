@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="CommitPrefEdits">
+        <ignore path="src/net/smartrover/skyrover/modal/ApplicationSettings.java" />
+    </issue>
+    <issue id="WrongCall">
+        <ignore path="src/net/smartrover/skyrover/ui/HudRenderer.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/Image.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/JoystickBase.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/joystick/JoystickBase.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/Button.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/Image.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/Indicator.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/JoystickBase.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/Text.java" />
+        <ignore path="src/net/smartrover/skyrover/ui/ToggleButton.java" />
+    </issue>
+</lint>
