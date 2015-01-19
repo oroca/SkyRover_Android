@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SkyRover</string>
+    <string name="settings_title_connection">CONNECT TO SkyRover</string>
+    <string name="settings_title_personal">PERSONAL SETTINGS</string>
+    <string name="settings_title_angel_trim">FLIGHT ANGLE TRIM</string>
+    <string name="settings_title_mode">MODE SETTINGS</string>
+    <string name="settings_title_about">ABOUT</string>
+
+    <string name="btn_title_default_settings">Default Settings</string>
+    <string name="btn_title_calibrate_acc">Calibrate Acc</string>
+    <string name="btn_title_calibrate_mag">Calibrate Mag</string>
+    <string name="btn_title_scan">Scan</string>
+    <string name="btn_title_stop_scan">Stop Scanning</string>
+    <string name="btn_title_scanning">Scanning</string>
+    <string name="settings_item_connection_state_not_conneceted">Not connected</string>
+    <string name="settings_item_connection_state_conneceted">Connected</string>
+
+    <string name="settings_item_left_handed">Left Handed</string>
+    <string name="settings_item_interface_opacity">Interface Opacity</string>
+    <string name="settings_item_acc_mode">Acc Mode</string>
+    <string name="settings_item_headfree_mode">Headfree Mode</string>
+    <string name="settings_item_yaw_channel">Yaw Channel</string>
+    <string name="settings_item_beginner_mode">Beginner Mode</string>
+    <string name="settings_item_take_off_throttle">Take Off Throttle</string>
+    <string name="settings_item_aileron_and_elevator_dead_band">Aileron/Elevator Dead Band</string>
+    <string name="settings_item_rudder_dead_band">Rudder Dead Band</string>
+    <string name="settings_item_stop_scan">Stop Scan</string>
+    <string name="settings_item_scanning">Scanning</string>
+    <string name="settings_item_scan">Scan</string>
+    <string name="settings_item_not_connected">not connected</string>
+    <string name="settings_item_connected">connected</string>
+    <string name="settings_item_scanning_anyflite">Scanning for SkyRover...</string>
+    <string name="ble_not_supported">BLE is not available on this device.</string>
+    <string name="bluetooth_not_supported">Bluetooth is not available on this device.</string>
+
+    <string name="dialog_title_info">info</string>
+    <string name="dialog_connect">Connect to SkyRover?</string>
+    <string name="dialog_disconnect">Disconnect from SkyRover?</string>
+    <string name="dialog_calibrate_acc">Calibrate the accelerator of SkyRover?</string>
+    <string name="dialog_calibrate_mag">Calibrate the magnetometer of SkyRover?</string>
+    <string name="dialog_reset">Reset to default settings?</string>
+
+    <string name="dialog_btn_yes">YES</string>
+    <string name="dialog_btn_no">NO</string>
+
+    <string name="connection_failed">Connection failed</string>
+    <string name="connection_successful">Connection successful</string>
+    <string name="connection_lost">Connection lost</string>
+
+    <string name="dialog_btn_ok">OK</string>
+    <string name="beginner_mode_info">Current control mode is beginner mode, if you can control the SkyRover drone well, you can turn off beginner mode in the Mode Settings page.</string>
+
+    <string name="btn_close">CLOSE</string>
+    <string name="unknown">No Name</string>
+</resources>
